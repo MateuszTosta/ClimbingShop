@@ -1,0 +1,38 @@
+.center {
+    text-align: center;
+}
+
+.line-height {
+    line-height: 5cm;
+}
+
+.size {
+    background-size: cover;
+}
+
+.whiteColour {
+    color: whitesmoke;
+}
+
+.width {
+    width: 5cm;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.border {
+    margin-right: 15px;
+    margin-bottom: 8px;
+    border: 0px solid silver;
+    background: black;
+    padding: 4px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rebeccapurple;
+}
+
+.background {
+    color: honeydew;
+}
